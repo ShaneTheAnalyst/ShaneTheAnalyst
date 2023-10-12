@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋HOLA+Hi+Everyone!+👋;+I'm+Shane+DeBoer!👋;" />
 </h1>
 
-<h3 align="center">A passionate Data and Cloud Engineer with a focus on AI and ML from South Africa. zar</h3>
+<h3 align="center">A passionate data and cloud engineer with a focus on AI and ML from South Africa zar</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently pursuing the **Harvard University CS50X Certifcation & Azubi Africa Cloud Engineering Program Certification**
  
- 🌱 I’m currently working on **AWS Cloud Services, Convolutional Neural Network, AI and Machine Learning **
+ 🌱 I’m currently working on **AWS Cloud Services, Matillion, Snowflake, AI and Machine Learning **
 
- 💬 Ask me about **Python, SQL, AWS Cloud Services, CNN...  or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
+ 💬 Ask me about **Python, SQL, AWS Cloud Services, Matillion, Snowflake or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
 
  ⚡ Fun facts about South Africa. **South Africa is the largest producer of macadamia nuts in the world. South Africa is the only country in the entire world where a street has produced two Nobel Prize winners in history**
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html5,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,snowflake,matillion,flask,html5,css,vscode,figma,git" />
 </div>
 
 <br/>
