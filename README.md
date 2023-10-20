@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShaneTheAnalyst" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋HOLA+Hi+Everyone!+👋;+I'm+Shane+DeBoer!👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋Hallo+Iedereen!+👋;+I'm+Shane+TheDutchman!👋;" />
 </h1>
 
 <h3 align="center">A passionate data and cloud engineer with a focus on AI and ML from South Africa zar</h3>
@@ -16,7 +16,7 @@
 
  💬 Ask me about **Python, SQL, AWS Cloud Services, Matillion, Snowflake or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
 
- ⚡ Fun facts about South Africa. **South Africa is the largest producer of macadamia nuts in the world. South Africa is the only country in the entire world where a street has produced two Nobel Prize winners in history**
+ ⚡ Fun facts about South Africa. **South Africa is the largest producer of macadamia nuts in the world. South Africa is the only country in the entire world where a street has produced two Nobel Prize winners in history.
  
  </div>
  
@@ -67,7 +67,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=bedankt+voor+het+bezoeken!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
