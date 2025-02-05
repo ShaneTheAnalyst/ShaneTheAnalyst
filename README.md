@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,visualstudio,replit,sqlite,docker,githubactions,gmail,html,dynamodb,git," /><br>
-    <img src="https://skillicons.dev/icons?i=bash,cloudflare,discord,r,mysql,selenium,snowflake,powershell,py,gcp,flask,kafka,kubernetes,vscode,aws,gitlab," />
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,discord,r,mysql,selenium,powershell,py,gcp,flask,kafka,kubernetes,vscode,aws,gitlab," />
 </div>
 
 <br/>
