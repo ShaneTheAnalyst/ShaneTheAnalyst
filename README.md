@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,visualstudio,replit,sqlite,sql,docker,html5,githubactions,gmail,html,dynamodb,git," /><br>
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,replit,sqlite,docker,githubactions,gmail,html,dynamodb,git," /><br>
     <img src="https://skillicons.dev/icons?i=bash,cloudflare,discord,r,mysql,selenium,snowflake,powershell,py,gcp,flask,kafka,kubernetes,vscode,aws,gitlab," />
 </div>
 
