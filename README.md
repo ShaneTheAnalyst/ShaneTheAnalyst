@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋Hallo+Iedereen!+👋;+I'm+Shane+TheDutchman!👋;" />
 </h1>
 
-<h3 align="center">A passionate data and cloud engineer with a focus on AI and ML from South Africa zar</h3>
+<h3 align="center">A passionate Data and Cloud Engineer from South Africa zar</h3>
 
 <br/>
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,snowflake,matillion,flask,html5,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,replit,sqlite,sql,docker,html5,githubactions,gmail,html,dynamodb,git," /><br>
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,discord,r,mysql,selenium,snowflake,powershell,py,gcp,flask,kafka,kubernetes,vscode,aws,gitlab," />
 </div>
 
 <br/>
