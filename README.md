@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently pursuing the **Harvard University CS50X Certifcation & Azubi Africa Cloud Engineering Program Certification**
+ 🔭 I’m currently certifiedin the **Harvard University CS50X Certifcation & Azubi Africa Cloud Engineering Program Certification**
  
- 🌱 I’m currently working on **AWS Cloud Services, Matillion, Snowflake, AI and Machine Learning **
+ 🌱 I work on **AWS Cloud Services, Matillion, Snowflake, AI and Machine Learning **
 
  💬 Ask me about **Python, SQL, AWS Cloud Services, Matillion, Snowflake or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
 
