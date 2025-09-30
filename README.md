@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Certified in the **Harvard University CS50X Certifcation & Azubi Africa Cloud Engineering Program Certification**
+ 🔭 A Certified Google Data Engineer with certifications in Project Mamnagement and Data Analytics.
  
  🌱 I work on **AWS Cloud Services, Matillion, Snowflake, AI and Machine Learning **
 
