@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋Hi+Everyone!+👋;+I'm+Shane+The+Dutchman!👋;" />
 </h1>
 
-<h3 align="center">A passionate Data and Cloud Engineer from South Africa zar</h3>
+<h3 align="center">A passionate Data Engineer from South Africa zar</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 A Certified Google Data Engineer with certifications in Project Mamnagement and Data Analytics.
+ 🔭 Certified Google Data Engineer with certifications in Project Mamnagement and Data Analytics.
  
- 🌱 I work on **AWS Cloud Services, Matillion, Snowflake, AI and Machine Learning **
+ 🌱 I work on **GCP Services, Matillion, Snowflake, AI  **
 
- 💬 Ask me about **Python, SQL, AWS Cloud Services, Matillion, Snowflake or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
+ 💬 Ask me about **Python, SQL, Services, Matillion, Snowflake or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
 
  ⚡ Fun facts about South Africa. **South Africa is the largest producer of macadamia nuts in the world. South Africa is the only country in the entire world where a street has produced two Nobel Prize winners in history.
  
